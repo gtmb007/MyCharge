@@ -42,7 +42,7 @@ After SignIn you have the following options:-
 5.) Rechage a plan
 6.) Log Out
 
-# Logging using Log4j with Spring AOP concept
+# Logging using Log4j
 I have provided logging logic in LoggingExpect.java class i.e followed the Spring AOP concept for all the methods of DAO and Service class after throwing exception on error level.
 
 # Unit Testing using JUnit5
