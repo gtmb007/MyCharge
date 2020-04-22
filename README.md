@@ -30,3 +30,10 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 spring.jpa.hibernate.ddl-auto=create
 
+# Logging using Log4j with Spring AOP concept
+I have provided logging logic in LoggingExpect.java class i.e followed the Spring AOP concept for all the methods of DAO and Service class after throwing exception on error level.
+
+# Unit Testing using JUnit5
+I have tested each and every methods of Service class without the help of DAO class real object i.e mocked the DAO clas object and injected it into Service class object and tested the logic of Service class methods.
+
+
