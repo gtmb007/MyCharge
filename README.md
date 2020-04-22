@@ -34,8 +34,8 @@ spring.jpa.hibernate.ddl-auto=create
 
 Sign Up / Sign In
 
-after Sign In you have the following options:-
-1.) User details with all previous transactions
+After SignIn you have the following options:-
+1.) Show User details with all previous transactions
 2.) Edit user name
 3.) Change password
 4.) Add wallet balance
