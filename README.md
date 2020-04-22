@@ -30,6 +30,18 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 spring.jpa.hibernate.ddl-auto=create
 
+# Main Logic
+
+Sign Up / Sign In
+
+after Sign In you have the following options:-
+1.) User details with all previous transactions
+2.) Edit user name
+3.) Change password
+4.) Add wallet balance
+5.) Rechage a plan
+6.) Log Out
+
 # Logging using Log4j with Spring AOP concept
 I have provided logging logic in LoggingExpect.java class i.e followed the Spring AOP concept for all the methods of DAO and Service class after throwing exception on error level.
 
