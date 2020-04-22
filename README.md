@@ -10,7 +10,7 @@ Your installed jdk should be atleast Java8 Version.
 Set database connection on eclipse.
 
 #Dependency
-Go to pom.xml and add all the dependencies required.
+Go to pom.xml and add all dependencies required.
 
 #Modify these according to your database credential
 Go to application.properties file
