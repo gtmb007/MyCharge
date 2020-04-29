@@ -1,7 +1,7 @@
 # MyCharge
 MyCharge is an interface built using Spring-boot that manages User Sign Up / Sign In, Wallet Balance and List of All Transactions for each user and you can opt for Recharge of any Plan using Wallet Balance. 
 
-# Start project from Begining
+# Start the project from Scratch
 Go to https://start.spring.io/  generate, extract the downloaded zip file and import it into Eclipse. <br/>
 
 Your installed JDK should be at least Java8 Version and establish database connection on eclipse. <br/>
